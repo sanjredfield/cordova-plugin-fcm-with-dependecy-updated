@@ -13,6 +13,7 @@ repositories {
 }
 dependencies {
     compile 'com.google.firebase:firebase-core:10.2.6'
+    compile 'com.google.android.gms:play-services:10.2.6'
 }
 // apply plugin: 'com.google.gms.google-services'
 // class must be used instead of id(string) to be able to apply plugin from non-root gradle file
